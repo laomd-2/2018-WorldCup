@@ -1,0 +1,22 @@
+23	GK	Martín Silva
+12	GK	Martín Campaña
+16	DF	Maxi Pereira
+3	DF	Diego Godín (Captain)
+2	DF	José María Giménez
+13	DF	Gastón Silva
+19	DF	Mauricio Lemos
+24	DF	Guillermo Varela
+7	MF	Cristian Rodríguez
+20	MF	Álvaro González
+14	MF	Nicolás Lodeiro
+5	MF	Carlos Sánchez
+15	MF	Matías Vecino
+10	MF	Giorgian De Arrascaeta
+8	MF	Nahitan Nández
+4	MF	Federico Valverde
+6	MF	Rodrigo Bentancur
+21	FW	Edinson Cavani
+11	FW	Cristhian Stuani
+17	FW	Jonathan Urretaviscaya
+18	FW	Maximiliano Gómez
+9	FW	Gastón Pereiro

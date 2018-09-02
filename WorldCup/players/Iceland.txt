@@ -1,0 +1,26 @@
+1	GK	Hannes Halldórsson
+12	GK	Ögmundur Kristinsson
+13	GK	Ingvar Jónsson
+28	GK	Rúnar Alex Rúnarsson
+2	DF	Diego Jóhannesson
+3	DF	Jón Guðni Fjóluson
+4	DF	Hjörtur Hermannsson
+5	DF	Sverrir Ingi Ingason
+14	DF	Kári Árnason
+6	DF	Ragnar Sigurðsson
+18	DF	Hörður Björgvin Magnússon
+23	DF	Ari Freyr Skúlason
+7	MF	Jóhann Berg Guðmundsson
+8	MF	Birkir Bjarnason
+10	MF	Gylfi Sigurðsson
+15	MF	Rúnar Már Sigurjónsson
+16	MF	Ólafur Skúlason
+17	MF	Aron Gunnarsson (Captain)
+19	MF	Rúrik Gíslason
+21	MF	Arnór Ingvi Traustason
+24	MF	Arnór Smárason
+25	MF	Elmar Bjarnason
+9	FW	Viðar Kjartansson
+11	FW	Alfreð Finnbogason
+26	FW	Kjartan Finnbogason
+27	FW	Kristján Flóki Finnbogason

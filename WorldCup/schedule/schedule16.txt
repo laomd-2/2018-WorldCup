@@ -1,0 +1,80 @@
+Matches by date
+June 14
+Russia (hosts) vs Spain at Moscow
+
+June 15
+Costa Rica vs Nigeria at Yekaterinburg
+Denmark vs Australia at Saint Petersburg
+Germany vs Peru at Sochi
+
+June 16
+Brazil vs Switzerland at Kazan
+Iceland vs Japan at Saransk
+Portugal vs England at Moscow
+Tunisia vs Panama at Kaliningrad
+
+June 17
+Sweden vs Serbia at Samara
+Argentina vs Mexico at Rostov-on-Don
+Belgium vs Colombia at Moscow
+
+June 18
+Egypt vs South Korea at Nizhny Novgorod
+Poland vs Uruguay at Sochi
+Senegal vs Saudi Arabia at Volgograd
+
+June 19
+Russia (hosts) vs Costa Rica at Saint Petersburg
+France vs Croatia at Moscow
+Iran vs Morocco at Saransk
+
+June 20
+Nigeria vs Spain at Rostov-on-Don
+Germany vs Denmark at Moscow
+Australia vs Peru at Kazan
+
+June 21
+Brazil vs Iceland at Yekaterinburg
+Japan vs Switzerland at Samara
+Portugal vs Tunisia at Nizhny Novgorod
+
+June 22
+Panama vs England at Volgograd
+Argentina vs Sweden at Saint Petersburg
+Serbia vs Mexico at Kaliningrad
+
+June 23
+Belgium vs Egypt at Sochi
+South Korea vs Colombia at Rostov-on-Don
+Poland vs Senegal at Moscow
+
+June 24
+Saudi Arabia vs Uruguay at Nizhny Novgorod
+Morocco vs Croatia at Yekaterinburg
+France vs Iran at Kazan
+
+June 25
+Nigeria vs Russia (hosts) at Samara
+Spain vs Costa Rica at Volgograd
+Australia vs Germany at Saransk
+Peru vs Denmark at Kaliningrad
+
+June 26
+Japan vs Brazil at Moscow
+Switzerland vs Iceland at Sochi
+Panama vs Portugal at Saint Petersburg
+England vs Tunisia at Rostov-on-Don
+
+June 27
+Serbia vs Argentina at Moscow
+Mexico vs Sweden at Nizhny Novgorod
+South Korea vs Belgium at Kazan
+Colombia vs Egypt at Yekaterinburg
+
+June 28
+Saudi Arabia vs Poland at Kaliningrad
+Uruguay vs Senegal at Saransk
+Morocco vs France at Volgograd
+Croatia vs Iran at Samara
+
+

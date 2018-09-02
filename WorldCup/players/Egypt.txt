@@ -1,0 +1,23 @@
+1	GK	Mohamed Awad
+16	GK	Sherif Ekramy (Captain)
+23	GK	Ahmed El-Shenawy
+2	DF	Ali Gabr
+3	DF	Ahmed Elmohamady
+4	DF	Omar Gaber
+5	DF	Ramy Rabia
+7	DF	Ahmed Fathy (Vice-captain)
+15	DF	Karim Hafez
+20	DF	Saad Samir
+6	MF	Sam Morsy
+8	MF	Tarek Hamed
+10	MF	Shikabala
+12	MF	Moamen Zakaria
+14	MF	Ramadan Sobhi
+17	MF	Mohamed Elneny
+19	MF	Abdallah Said
+21	MF	Trézéguet
+22	MF	Amr Warda
+9	FW	Kouka
+11	FW	Kahraba
+13	FW	Amr Marey
+18	FW	Amr Gamal

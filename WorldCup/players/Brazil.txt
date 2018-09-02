@@ -1,0 +1,25 @@
+1	GK	Alisson
+16	GK	Cássio
+23	GK	Ederson
+2	DF	Dani Alves (Captain)
+3	DF	Miranda
+4	DF	Jemerson
+6	DF	Alex Sandro
+12	DF	Marcelo
+13	DF	Marquinhos
+14	DF	Thiago Silva
+22	DF	Danilo
+5	MF	Casemiro
+8	MF	Renato Augusto
+11	MF	Philippe Coutinho
+15	MF	Paulinho
+17	MF	Fernandinho
+18	MF	Giuliano
+19	MF	Willian
+20	MF	Diego
+7	FW	Douglas Costa
+9	FW	Gabriel Jesus
+10	FW	Neymar
+21	FW	Roberto Firmino
+24	FW	Taison
+25	FW	Diego Souza

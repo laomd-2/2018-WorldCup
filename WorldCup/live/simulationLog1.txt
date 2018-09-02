@@ -1,0 +1,93 @@
+
+This is the Play-off game.
+July 14-----------------------------------------
+Group stage:
+Switzerland vs Poland
+Switzerland
+#3, Léo Lacroix,DF
+#22, Fabian Schär,DF
+#4, Nico Elvedi,DF
+#5, Manuel Akanji,DF
+#7, Breel Embolo,FW
+#9, Haris Seferović,FW
+#18, Admir Mehmedi,FW
+#1, Yann Sommer,GK
+#24, Edimilson Fernandes,MF
+#8, Fabian Frei,MF
+#11, Valon Behrami,MF
+Poland
+#4, Thiago Cionek,DF
+#13, Maciej Rybus,DF
+#14, Bartosz Bereszyński,DF
+#25, Jarosław Jach,DF
+#29, Mariusz Stępiński,FW
+#23, Kamil Wilczek,FW
+#28, Jakub Świerczok,FW
+#22, Łukasz Fabiański,GK
+#17, Maciej Makuszewski,MF
+#16, Jakub Błaszczykowski,MF
+#6, Jacek Góralski,MF
+Playing...
+Switzerland did a goal, and it was #3, Léo Lacroix did the goal.
+Now it is 1:0
+Poland did a goal, and it was #28, Jakub Świerczok did the goal.
+Now it is 1:1
+Poland did a goal, and it was #29, Mariusz Stępiński did the goal.
+Now it is 1:2
+Switzerland did a goal, and it was #1, Yann Sommer did the goal.
+Now it is 2:2
+Switzerland did a goal, and it was #9, Haris Seferović did the goal.
+Now it is 3:2
+Switzerland did a goal, and it was #1, Yann Sommer did the goal.
+Now it is 4:2
+Switzerland did a goal, and it was #22, Fabian Schär did the goal.
+Now it is 5:2
+Switzerland did a goal, and it was #18, Admir Mehmedi did the goal.
+Now it is 6:2
+It is a draw with 6:2
+
+This is the final match!
+July 15-----------------------------------------
+Group stage:
+Portugal vs Saudi Arabia
+Portugal
+#3, Pepe,DF
+#2, Nélson Semedo,DF
+#20, Kévin Rodrigues,DF
+#5, Vitorino Antunes,DF
+#17, Bruma,FW
+#18, Gelson Martins,FW
+#16, Rony Lopes,FW
+#1, José Sá,GK
+#11, Bernardo Silva,MF
+#8, Bruno Fernandes,MF
+#6, Rúben Neves,MF
+Saudi Arabia
+#10, Yasser Al-Shahrani,DF
+#11, Motaz Hawsawi,DF
+#3, Osama Hawsawi (Captain),DF
+#5, Mansoor Al-Harbi,DF
+#8, Muhannad Assiri,FW
+#9, Mukhtar Fallatah,FW
+#13, Hazaa Al-Hazaa,FW
+#1, Waleed Abdullah,GK
+#17, Abdulmalek Al-Khaibri,MF
+#6, Yahya Al-Shehri,MF
+#19, Salman Al-Moasher,MF
+Playing...
+Portugal did a goal, and it was #3, Pepe did the goal.
+Now it is 1:0
+Saudi Arabia did a goal, and it was #6, Yahya Al-Shehri did the goal.
+Now it is 1:1
+Portugal did a goal, and it was #8, Bruno Fernandes did the goal.
+Now it is 2:1
+Portugal did a goal, and it was #5, Vitorino Antunes did the goal.
+Now it is 3:1
+Portugal did a goal, and it was #18, Gelson Martins did the goal.
+Now it is 4:1
+Saudi Arabia did a goal, and it was #10, Yasser Al-Shahrani did the goal.
+Now it is 4:2
+Saudi Arabia did a goal, and it was #3, Osama Hawsawi (Captain) did the goal.
+Now it is 4:3
+It is a draw with 4:3
+

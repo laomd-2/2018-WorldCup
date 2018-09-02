@@ -1,0 +1,23 @@
+16	GK	Khadim Ndiaye
+1	GK	Clément Diop
+23	GK	Alfred Gomis
+2	DF	Kara Mbodji (Vice-captain)
+21	DF	Lamine Gassama
+3	DF	Kalidou Koulibaly
+15	DF	Salif Sané
+19	DF	Saliou Ciss
+22	DF	Moussa Wagué
+18	DF	Adama Mbengue
+4	DF	Fallou Diagne
+12	DF	Youssouf Sabaly
+5	MF	Idrissa Gana Gueye
+8	MF	Cheikhou Kouyaté (Captain)
+11	MF	Cheikh Ndoye
+17	MF	Papa Alioune Ndiaye
+13	MF	Alfred Ndiaye
+20	MF	Assane Dioussé
+7	FW	Moussa Sow
+14	FW	Moussa Konaté
+6	FW	Diafra Sakho
+10	FW	Opa Nguette
+9	FW	Mbaye Niang

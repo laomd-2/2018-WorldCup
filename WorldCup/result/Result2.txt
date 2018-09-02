@@ -1,0 +1,5 @@
+Team           W  D  L  GF  GA  GD  Pts  
+Switzerland    0  0  2  4   12  -8  0    
+Portugal       2  0  0  12  4   8   6    
+Poland         0  0  2  10  12  -2  0    
+Saudi Arabia   2  0  0  12  10  2   6    

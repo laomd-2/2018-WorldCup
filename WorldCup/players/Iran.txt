@@ -1,0 +1,26 @@
+1	GK	Alireza Beiranvand
+12	GK	Mohammad Rashid Mazaheri
+22	GK	Amir Abedzadeh
+2	DF	Vouria Ghafouri
+4	DF	Jalal Hosseini
+5	DF	Milad Mohammadi
+8	DF	Morteza Pouraliganji
+13	DF	Rouzbeh Cheshmi
+23	DF	Ramin Rezaeian
+24	DF	Saeid Aghaei
+3	MF	Ehsan Hajsafi
+6	MF	Saeid Ezatolahi
+7	MF	Saman Ghoddos
+9	MF	Omid Ebrahimi
+11	MF	Vahid Amiri
+14	MF	Ali Karimi
+15	MF	Akbar Imani
+18	MF	Alireza Jahanbakhsh
+21	MF	Ashkan Dejagah (Captain)
+25	MF	Ahmad Abdollahzadeh
+26	MF	Mehdi Torabi
+10	FW	Karim Ansarifard
+16	FW	Reza Ghoochannejhad
+17	FW	Mehdi Taremi
+19	FW	Kaveh Rezaei
+20	FW	Sardar Azmoun

@@ -1,0 +1,27 @@
+6	GK	Ikechukwu Ezenwa
+1	GK	Daniel Akpeyi
+23	GK	Francis Uzoho
+4	DF	Kenneth Omeruo
+12	DF	Shehu Abdullahi
+5	DF	William Troost-Ekong
+6	DF	Leon Balogun
+2	DF	Ola Aina
+20	DF	Chidozie Awaziem
+17	DF	Tyronne Ebuehi
+21	DF	Brian Idowu
+3	DF	Uche Henry Agbo
+10	MF	John Obi Mikel (Captain)
+24	MF	Ogenyi Onazi INJ
+19	MF	John Ogu
+13	MF	Wilfred Ndidi
+8	MF	Etebo Oghenekaro
+25	MF	Mikel Agu
+15	MF	Chidiebere Nwakali
+7	FW	Ahmed Musa
+26	FW	Moses SimonINJ
+27	FW	Odion IghaloINJ
+14	FW	Kelechi Iheanacho
+18	FW	Alex Iwobi
+9	FW	Olarenwaju Kayode
+11	FW	Henry Onyekuru
+22	FW	Anthony Nwakaeme

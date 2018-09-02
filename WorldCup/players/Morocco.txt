@@ -1,0 +1,26 @@
+12	GK	Munir Mohamedi
+1	GK	Yassine Bounou
+22	GK	Ahmed Reda Tagnaouti
+5	DF	Medhi Benatia (Captain)
+17	DF	Nabil Dirar
+6	DF	Romain Saïss
+3	DF	Fouad Chafik
+20	DF	Hamza Mendyl
+2	DF	Achraf Hakimi
+24	DF	Jawad El Yamiq
+4	DF	Badr Banoun
+26	DF	Oualid El Hajjam
+14	MF	Mbark Boussoufa (Vice-captain)
+8	MF	Karim El Ahmadi
+10	MF	Younès Belhanda
+16	MF	Nordin Amrabat
+11	MF	Fayçal Fajr
+7	MF	Hakim Ziyech
+9	MF	Sofiane Boufal
+25	MF	Ismail Haddad
+15	MF	Mimoun Mahi
+18	MF	Amine Harit
+19	MF	Sofyan Amrabat
+13	FW	Khalid Boutaïb
+23	FW	Rachid Alioui
+21	FW	Achraf Bencharki

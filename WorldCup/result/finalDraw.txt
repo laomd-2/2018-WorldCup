@@ -1,0 +1,80 @@
+First stage:
+pots1
+  Russia (hosts)
+  Argentina
+  Belgium
+  Brazil
+  France
+  Germany
+  Poland
+  Portugal
+pots2
+  Colombia
+  Croatia
+  England
+  Mexico
+  Peru
+  Spain
+  Switzerland
+  Uruguay
+pots3
+  Costa Rica
+  Denmark
+  Egypt
+  Iceland
+  Iran
+  Senegal
+  Sweden
+  Tunisia
+pots4
+  Australia
+  Japan
+  Morocco
+  Nigeria
+  Panama
+  Saudi Arabia
+  Serbia
+  South Korea
+
+The Final Draw:
+group A
+  Russia (hosts)
+  Costa Rica
+  Nigeria
+  Spain
+group B
+  Australia
+  Denmark
+  Germany
+  Peru
+group C
+  Brazil
+  Iceland
+  Japan
+  Switzerland
+group D
+  England
+  Panama
+  Portugal
+  Tunisia
+group E
+  Argentina
+  Mexico
+  Serbia
+  Sweden
+group F
+  Belgium
+  Colombia
+  Egypt
+  South Korea
+group G
+  Poland
+  Saudi Arabia
+  Senegal
+  Uruguay
+group H
+  Croatia
+  France
+  Iran
+  Morocco
+

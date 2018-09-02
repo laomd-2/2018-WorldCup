@@ -1,0 +1,24 @@
+1	GK	José Sá
+12	GK	Anthony Lopes
+22	GK	Beto
+2	DF	Nélson Semedo
+3	DF	Pepe
+4	DF	Luís Neto
+5	DF	Vitorino Antunes
+15	DF	Edgar Ié
+20	DF	Kévin Rodrigues
+21	DF	Ricardo Pereira
+23	DF	João Cancelo
+24	DF	Ricardo Ferreira
+6	MF	Rúben Neves
+8	MF	Bruno Fernandes
+10	MF	João Mário
+11	MF	Bernardo Silva
+13	MF	Danilo Pereira
+14	MF	Manuel Fernandes
+7	FW	Gonçalo Guedes
+9	FW	André Silva
+16	FW	Rony Lopes
+17	FW	Bruma
+18	FW	Gelson Martins
+19	FW	Gonçalo Paciência

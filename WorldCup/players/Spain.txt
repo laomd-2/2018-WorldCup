@@ -1,0 +1,24 @@
+1	GK	David de Gea
+13	GK	Kepa Arrizabalaga
+23	GK	Pepe Reina
+2	DF	Álvaro Odriozola
+3	DF	Gerard Piqué
+4	DF	Marc Bartra
+14	DF	Nacho
+15	DF	Sergio Ramos (Captain)
+16	DF	Alberto Moreno
+18	DF	Jordi Alba
+5	MF	Sergio Busquets
+6	MF	Andrés Iniesta
+8	MF	Saúl Ñíguez
+10	MF	Thiago Alcântara
+12	MF	Luis Alberto
+20	MF	Marco Asensio
+21	MF	David Silva
+24	MF	Suso
+25	MF	Asier Illarramendi
+7	FW	Álvaro Morata
+9	FW	José Callejón
+11	FW	Vitolo
+17	FW	Iago Aspas
+19	FW	Rodrigo

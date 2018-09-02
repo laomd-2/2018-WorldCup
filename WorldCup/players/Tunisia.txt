@@ -1,0 +1,23 @@
+1	GK	Farouk Ben Mustapha
+16	GK	Balbouli (Captain)
+22	GK	Moez Ben Cherifia
+2	DF	Syam Ben Youssef
+4	DF	Yassine Meriah
+5	DF	Oussama Haddadi
+6	DF	Rami Bedoui
+12	DF	Ali Maâloul
+17	DF	Hamza Mathlouthi
+19	DF	Khalil Chemmam
+21	DF	Hamdi Nagguez
+3	MF	Aymen Trabelsi
+10	MF	Wahbi Khazri
+13	MF	Ferjani Sassi
+14	MF	Mohamed Ben Amor
+15	MF	Karim Aouadhi
+18	MF	Bassem Srarfi
+20	MF	Ghailene Chaalali
+7	FW	Youssef Msakni
+8	FW	Fakhreddine Ben Youssef
+9	FW	Yoann Touzghar
+11	FW	Taha Khenissi
+23	FW	Anice Badri

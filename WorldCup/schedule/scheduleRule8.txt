@@ -1,0 +1,8 @@
+30 June	A1 B2	Sochi
+30 June C1 D2	Kazan
+1  July A2 B1	Moscow
+1  July C2 D1	Saint Petersburg
+2  July E1 F2	Samara
+2  July G1 H2	Nizhny Novgorod
+3  July F1 E2	Saint Petersburg
+3  July	H1 G2	Moscow

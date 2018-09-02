@@ -1,0 +1,48 @@
+14 June A1 A2 Moscow
+15 June A3 A4 Yekaterinburg
+19 June A1 A3 Saint Petersburg
+20 June A4 A2 Rostov-on-Don
+25 June A4 A1 Samara
+25 June A2 A3 Volgograd
+15 June B3 B4 Saint Petersburg
+15 June B1 B2 Sochi
+20 June B1 B3 Moscow
+20 June B4 B2 Kazan
+25 June B4 B1 Saransk
+25 June B2 B3 Kaliningrad
+16 June C1 C2 Kazan
+16 June C3 C4 Saransk
+21 June C1 C3 Yekaterinburg
+21 June C4 C2 Samara
+26 June C4 C1 Moscow
+26 June C2 C3 Sochi
+16 June D1 D2 Moscow
+16 June D3 D4 Kaliningrad
+21 June D1 D3 Nizhny Novgorod
+22 June D4 D2 Volgograd
+26 June D4 D1 Saint Petersburg
+26 June D2 D3 Rostov-on-Don
+17 June E3 E4 Samara
+17 June E1 E2 Rostov-on-Don
+22 June E1 E3 Saint Petersburg
+22 June E4 E2 Kaliningrad
+27 June E4 E1 Moscow
+27 June E2 E3 Nizhny Novgorod
+17 June F1 F2 Moscow
+18 June F3 F4 Nizhny Novgorod
+23 June F1 F3 Sochi
+23 June F4 F2 Rostov-on-Don
+27 June F4 F1 Kazan
+27 June F2 F3 Yekaterinburg
+18 June G1 G2 Sochi
+18 June G3 G4 Volgograd
+23 June G1 G3 Moscow
+24 June G4 G2 Nizhny Novgorod
+28 June G4 G1 Kaliningrad
+28 June G2 G3 Saransk
+19 June H1 H2 Moscow
+19 June H3 H4 Saransk
+24 June H4 H2 Yekaterinburg
+24 June H1 H3 Kazan
+28 June H4 H1 Volgograd
+28 June H2 H3 Samara

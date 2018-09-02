@@ -1,0 +1,21 @@
+1	GK	Guillermo Ochoa
+14	GK	José de Jesús Corona
+20	GK	Rodolfo Cota
+2	DF	Héctor Moreno
+3	DF	Miguel Layún
+7	DF	Diego Reyes
+8	DF	Hugo Ayala
+10	DF	Néstor Araujo
+11	DF	Jesús Gallardo
+13	DF	Carlos Salcedo
+15	DF	César Montes
+4	MF	Andrés Guardado (Captain)
+6	MF	Javier Aquino
+9	MF	Jonathan dos Santos
+12	MF	Jürgen Damm
+16	MF	Omar Govea
+19	MF	Uriel Antuna
+5	FW	Carlos Vela
+17	FW	Oribe Peralta
+18	FW	Raúl Jiménez
+21	FW	Hirving Lozano

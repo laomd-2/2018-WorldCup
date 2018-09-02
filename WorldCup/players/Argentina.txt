@@ -1,0 +1,25 @@
+1	GK	Sergio Romero
+12	GK	Nahuel Guzmán
+23	GK	Agustín Marchesín
+2	DF	Emanuel Mammana
+3	DF	Federico Fazio
+4	DF	Germán Pezzella
+6	DF	Emiliano Insúa
+14	DF	Javier Mascherano
+17	DF	Nicolás Otamendi
+5	MF	Leandro Paredes
+8	MF	Enzo Pérez
+13	MF	Matías Kranevitter
+16	MF	Diego Perotti
+18	MF	Eduardo Salvio
+19	MF	Éver Banega
+20	MF	Giovani Lo Celso
+22	MF	Alejandro Gómez
+24	MF	Emiliano Rigoni
+25	MF	Fernando Belluschi
+7	FW	Darío Benedetto
+9	FW	Sergio Agüero
+10	FW	Lionel Messi (Captain)
+11	FW	Ángel Di María
+21	FW	Paulo Dybala
+26	FW	Cristian Pavón

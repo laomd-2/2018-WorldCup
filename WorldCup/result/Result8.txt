@@ -1,0 +1,40 @@
+Final result for group A
+Team           W  D  L  GF  GA  GD  Pts  
+Nigeria        2  0  0  14  4   10  6    
+Costa Rica     2  0  0  14  12  2   6    
+
+Final result for group B
+Team           W  D  L  GF  GA  GD  Pts  
+Australia      0  0  2  12  14  -2  0    
+Peru           0  0  2  4   14  -10 0    
+
+Final result for group C
+Team           W  D  L  GF  GA  GD  Pts  
+Switzerland    2  0  0  6   2   4   6    
+Brazil         0  2  0  2   2   0   2    
+
+Final result for group D
+Team           W  D  L  GF  GA  GD  Pts  
+Portugal       0  2  0  2   2   0   2    
+Tunisia        0  0  2  2   6   -4  0    
+
+Final result for group E
+Team           W  D  L  GF  GA  GD  Pts  
+Mexico         2  0  0  14  8   6   6    
+Serbia         2  0  0  12  2   10  6    
+
+Final result for group F
+Team           W  D  L  GF  GA  GD  Pts  
+South Korea    0  0  2  2   12  -10 0    
+Belgium        0  0  2  8   14  -6  0    
+
+Final result for group G
+Team           W  D  L  GF  GA  GD  Pts  
+Poland         2  0  0  14  0   14  6    
+Saudi Arabia   2  0  0  14  4   10  6    
+
+Final result for group H
+Team           W  D  L  GF  GA  GD  Pts  
+France         0  0  2  4   14  -10 0    
+Croatia        0  0  2  0   14  -14 0    
+

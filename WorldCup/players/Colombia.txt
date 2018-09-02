@@ -1,0 +1,21 @@
+1	GK	Leandro Castellanos
+12	GK	José Fernando Cuadrado
+18	DF	Frank Fabra
+4	DF	Stefan Medina
+3	DF	Óscar Murillo
+13	DF	Yerry Mina
+25	DF	Éder Álvarez Balanta
+23	DF	Davinson Sánchez
+24	DF	William Tesillo
+6	MF	Carlos Sánchez
+8	MF	Abel Aguilar
+21	MF	Edwin Cardona
+20	MF	Giovanni Moreno
+5	MF	Wílmar Barrios
+14	MF	Mateus Uribe
+22	MF	Jefferson Lerma
+7	FW	Carlos Bacca
+16	FW	Miguel Borja
+2	FW	Duván Zapata
+17	FW	Felipe Pardo
+26	FW	Avilés Hurtado

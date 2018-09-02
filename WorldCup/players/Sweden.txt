@@ -1,0 +1,25 @@
+1	GK	Robin Olsen
+12	GK	Karl-Johan Johnsson
+23	GK	Kristoffer Nordfeldt
+2	DF	Mikael Lustig
+3	DF	Victor Lindelöf
+4	DF	Andreas Granqvist (Captain)
+5	DF	Martin Olsson
+6	DF	Ludwig Augustinsson
+14	DF	Filip Helander
+16	DF	Emil Krafth
+18	DF	Pontus Jansson
+24	DF	Johan Larsson
+7	MF	Sebastian Larsson (Vice-captain)
+10	MF	Emil Forsberg
+13	MF	Jakob Johansson
+15	MF	Gustav Svensson
+17	MF	Viktor Claesson
+19	MF	Marcus Rohdén
+21	MF	Jimmy Durmaz
+22	MF	Ken Sema
+25	MF	Albin Ekdal
+8	FW	Isaac Kiese Thelin
+9	FW	Marcus Berg
+11	FW	John Guidetti
+20	FW	Ola Toivonen

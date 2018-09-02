@@ -1,0 +1,26 @@
+1	GK	Thibaut Courtois
+12	GK	Simon Mignolet
+13	GK	Koen Casteels
+26	GK	Matz Sels
+5	DF	Jan Vertonghen
+3	DF	Thomas Vermaelen
+15	DF	Thomas Meunier
+23	DF	Laurent Ciman
+2	DF	Jordan Lukaku
+4	DF	Leander Dendoncker
+20	DF	Dedryck Boyata
+24	DF	Christian Kabasele
+6	MF	Axel Witsel
+19	MF	Mousa Dembélé
+7	MF	Kevin De Bruyne
+16	MF	Steven Defour
+22	MF	Nacer Chadli
+8	MF	Youri Tielemans
+10	FW	Eden Hazard (captain
+9	FW	Romelu Lukaku
+14	FW	Dries Mertens
+11	FW	Kevin Mirallas
+17	FW	Divock Origi
+18	FW	Thorgan Hazard
+25	FW	Adnan Januzaj
+21	FW	Laurent Depoitre

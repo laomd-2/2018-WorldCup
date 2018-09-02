@@ -1,0 +1,9 @@
+Team           W  D  L  GF  GA  GD  Pts  
+Nigeria        0  0  2  4   12  -8  0    
+Switzerland    2  0  0  12  4   8   6    
+Costa Rica     0  0  2  2   6   -4  0    
+Portugal       2  0  0  6   2   4   6    
+Mexico         0  0  2  10  12  -2  0    
+Poland         2  0  0  12  10  2   6    
+Serbia         0  0  2  2   12  -10 0    
+Saudi Arabia   2  0  0  12  2   10  6    

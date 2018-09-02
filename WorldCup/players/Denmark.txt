@@ -1,0 +1,24 @@
+1	GK	Kasper Schmeichel
+16	GK	Jonas Lössl
+22	GK	Frederik Rønnow
+3	DF	Jannik Vestergaard
+4	DF	Simon Kjær (Captain)
+5	DF	Jonas Knudsen
+6	DF	Andreas Christensen
+12	DF	Andreas Bjelland
+13	DF	Mathias Jørgensen
+14	DF	Jens Stryger Larsen
+17	DF	Peter Ankersen
+2	MF	Mike Jensen
+7	MF	William Kvist (Vice-Captain)
+8	MF	Thomas Delaney
+10	MF	Christian Eriksen
+18	MF	Lukas Lerager
+19	MF	Lasse Schöne
+23	MF	Pione Sisto
+15	FW	Viktor Fischer
+11	FW	Nicklas Bendtner
+9	FW	Nicolai Jørgensen
+20	FW	Yussuf Poulsen
+21	FW	Andreas Cornelius
+24	FW	Martin Braithwaite

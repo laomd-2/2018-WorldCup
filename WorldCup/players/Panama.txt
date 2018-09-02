@@ -1,0 +1,21 @@
+1	GK	Jaime Penedo
+12	GK	José Calderón
+23	DF	Felipe Baloy (Captain)
+15	DF	Erick Davis
+17	DF	Luis Ovalle
+13	DF	Roberto Chen
+4	DF	Fidel Escobar
+2	DF	Michael Murillo
+3	DF	Jan Carlos Vargas
+11	MF	Armando Cooper
+8	MF	Marcos Sánchez
+10	MF	Ricardo Buitrago
+19	MF	Josiel Núñez
+12	MF	José González
+6	MF	Manuel Vargas
+16	MF	Leslie Heráldez
+20	MF	Ricardo Ávila
+7	FW	Blas Pérez
+9	FW	Gabriel Torres
+5	FW	Ismael Díaz
+21	FW	Alfredo Stephens
